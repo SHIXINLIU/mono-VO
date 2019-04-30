@@ -40,6 +40,7 @@ THE SOFTWARE.
 #include <sstream>
 #include <fstream>
 #include <string>
+#include <cstring>
 
 using namespace cv;
 using namespace std;
